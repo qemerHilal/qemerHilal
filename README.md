@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**qemerHilal/qemerHilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I’m Nuria  
 
-Here are some ideas to get you started:
+I’m a **multidisciplinary creator** with experience in diverse areas including:  
+- ⚙️ Engineering  
+- 💻 Software Development  
+- 📚 Teaching  
+- ✍️ Author  
+- 🎨 Artist  
+- 🎥 Content Creation (YouTube & Social Media)  
+- 🌍 Influencer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎥 Projects  
+- [Inspire Self-Teaching](https://www.youtube.com/@InspireSelf-Teaching)  
+- [Healing Abandonment Trauma](https://www.youtube.com/@HealingAbandonmentTrauma)  
+
+---
+
+## 🎁 Free Resources  
+I create **free eBooks and blogs** on healing, self-growth, and personal empowerment.  
+👉 [Subscribe here for free eBooks](https://mailchi.mp/6a50c9705a8e/healing-abandonment-trauma-hat)  
+
+---
+
+## 🌐 Connect With Me  
+- [TikTok](https://www.tiktok.com/@legacylegend80)  
+- [Instagram](https://www.instagram.com/nurlovesherself/)  
+- [Mailing List & Contact](https://mailchi.mp/6a50c9705a8e/healing-abandonment-trauma-hat)  
+
+---
+
+✨ *I believe in the power of learning, healing, and creativity to inspire change.*  
