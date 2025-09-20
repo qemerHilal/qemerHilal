@@ -14,7 +14,11 @@ I’m a **multidisciplinary creator** with experience in diverse areas including
 
 ## 🎥 Projects  
 - [Inspire Self-Teaching](https://www.youtube.com/@InspireSelf-Teaching)  
-- [Healing Abandonment Trauma](https://www.youtube.com/@HealingAbandonmentTrauma)  
+- [Healing Abandonment Trauma](https://www.youtube.com/@HealingAbandonmentTrauma)
+
+- 
+- <img src="https://github.com/qemerHilal/qemerHilal/blob/main/video1.png" width="400" />
+
 
 ---
 
