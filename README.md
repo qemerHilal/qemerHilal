@@ -18,9 +18,11 @@ I’m a **multidisciplinary creator** with experience in diverse areas including
 
 - 
 - <img src="https://github.com/qemerHilal/qemerHilal/blob/main/video1.png" width="400" />
+<img src="https://github.com/qemerHilal/qemerHilal/blob/main/video2.png" width="400"/>
 
 
 ---
+
 
 ## 🎁 Free Resources  
 I create **free eBooks and blogs** on healing, self-growth, and personal empowerment.  
