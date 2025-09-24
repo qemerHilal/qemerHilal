@@ -20,7 +20,7 @@ I’m a **multidisciplinary creator** with experience in diverse areas including
 
 ![Alt text](/https://github.com/qemerHilal/qemerHilal/blob/main/video1.png?raw=true "Optional Title")
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+
 -MS accesss tutorial
  <img src="https://github.com/qemerHilal/qemerHilal/blob/main/video2.png" width="400"/>
 ![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
@@ -41,5 +41,12 @@ I create **free eBooks and blogs** on healing, self-growth, and personal empower
 - [Mailing List & Contact](https://mailchi.mp/6a50c9705a8e/healing-abandonment-trauma-hat)  
 
 ---
+## 🎨 Henna Artist 
+
+A collection of my henna designs and creative experiments — celebrating tradition, artistry, and self-expression through natural patterns.
+---
+
+##Beading
+A collection of my beading projects and designs. Each piece reflects creativity, craftsmanship, and the timeless beauty of beadwork.
 
 ✨ *I believe in the power of learning, healing, and creativity to inspire change.*  
