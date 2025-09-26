@@ -1,7 +1,7 @@
 
 # 👋 Hi, I’m Nuria  
 
-I’m a **multidisciplinary creator** with experience in diverse areas including:  
+I’m a **multidisciplinary talent** with experience in diverse areas including:  
 - ⚙️ Engineering  
 - 💻 Software Development  
 - 📚 Teaching  
@@ -16,18 +16,24 @@ I’m a **multidisciplinary creator** with experience in diverse areas including
 - [Inspire Self-Teaching](https://www.youtube.com/@InspireSelf-Teaching)  
 - [Healing Abandonment Trauma](https://www.youtube.com/@HealingAbandonmentTrauma)
 
--Excel tutorial  
 
-![Alt text](/https://github.com/qemerHilal/qemerHilal/blob/main/video1.png?raw=true "Optional Title")
+### Excel tutorial  
 
-
--MS accesss tutorial
- <img src="https://github.com/qemerHilal/qemerHilal/blob/main/video2.png" width="400"/>
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
-
----
+![Alt text](./video1.png?raw=true "Optional Title")
 
 
+### MS accesss tutorial
+
+![Alt text](./video2.png?raw=true "Optional Title")
+
+
+### Web Dev Tutorials -beginner friendly
+![Alt text](./video4.png?raw=true "optional Title")
+
+
+
+### Scratch Programming
+![Alt text](./video3.png?raw=true "optional Title")
 
 ## 🎁 Free Resources  
 I create **free eBooks and blogs** on healing, self-growth, and personal empowerment.  
@@ -50,6 +56,10 @@ I create **free eBooks and blogs** on healing, self-growth, and personal empower
 ## Beading
 -A collection of my beading projects and designs. Each piece reflects creativity, craftsmanship, and the timeless beauty of beadwork.
 
--![Alt text](/https://github.com/qemerHilal/qemerHilal/blob/main/webcam-toy-photo10.jpg?raw=true "Optional Title")
+![Alt text](./webcam-toy-photo10.jpg?raw=true "Optional Title")
+
+![Alt text](./webcam-toy-photo15.jpg?raw=true "optional Title")
+
+![Alt text](./webcam-toy-photo27.jpg?raw=true "optional Title")
 
 ✨ *I believe in the power of learning, healing, and creativity to inspire change.*  
